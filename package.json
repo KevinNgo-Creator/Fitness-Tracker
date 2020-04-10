@@ -1,0 +1,27 @@
+{
+  "name": "fitness-tracker",
+  "version": "1.0.0",
+  "description": "Keep track of your workout",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinNgo-Creator/Fitness-Tracker.git"
+  },
+  "keywords": [
+    "fitness"
+  ],
+  "author": "Kevin Ngo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinNgo-Creator/Fitness-Tracker/issues"
+  },
+  "homepage": "https://github.com/KevinNgo-Creator/Fitness-Tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7",
+    "morgan": "^1.10.0"
+  }
+}
